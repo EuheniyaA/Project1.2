@@ -7,15 +7,17 @@
 На тестирование затрачено: 0,3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/EuheniyaA/Project1.2/issues/1
-* https://github.com/EuheniyaA/Project1.2/issues/2
+* [При проверке номера банковской карты в приложении "Кредитные карты" карта с правильным номером не валидируется ](https://github.com/EuheniyaA/Project1.2/issues/1)
+* [При проверке номера банковской карты в приложении «Кредитные карты» карта с неправильным номером успешно валидируется](https://github.com/EuheniyaA/Project1.2/issues/2)
+
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * Тест-план
-  https://github.com/EuheniyaA/Project1.2/blob/785d7614f6b3ae5589b100fa79190c1071853aa3/Test%20plan.md
+
+  [Тест-план](https://github.com/EuheniyaA/Project1.2/blob/785d7614f6b3ae5589b100fa79190c1071853aa3/Test%20plan.md)
 
 В качестве тестовых данных использовались данные http://freeformatter.com/:
 
